@@ -1,0 +1,32 @@
+[
+  {
+    "eventname":"Annual Function",
+    "eventdes":"Is is celebrated every year",
+    "eventdate":"Sep 2024",
+    "students":"40",
+    "location":"Euro School"
+  },
+  {
+    "eventname":"Science Exhibition",
+    "eventdes":"A showcase of student projects in various science fields",
+    "eventdate":"Oct 2024",
+    "students":"50",
+    "location":"Euro School"
+  },
+  {
+    "eventname":"Sports Day",
+    "eventdes":"A day full of sports competitions and activities",
+    "eventdate":"Nov 2024",
+    "students":"60",
+    "location":"Euro School"
+  },
+  {
+    "eventname":"Art & Craft Fair",
+    "eventdes":"Display and sale of handmade art and crafts by students",
+    "eventdate":"Dec 2024",
+    "students":"30",
+    "location":"Euro School"
+  }
+
+    
+]

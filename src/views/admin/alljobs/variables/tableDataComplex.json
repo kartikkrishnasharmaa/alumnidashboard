@@ -1,0 +1,84 @@
+[
+  {
+    "jobtitle": "Software Engineer",
+    "postedby": "Admin",
+    "companyname": "Accenture",
+    "jobtype": "Full Time",
+    "address": "Jaipur",
+    "status": "Approved"
+  },
+  {
+    "jobtitle": "Data Analyst",
+    "postedby": "Alumni",
+    "companyname": "TCS",
+    "jobtype": "Full Time",
+    "address": "Mumbai",
+    "status": "Pending"
+  },
+  {
+    "jobtitle": "UI/UX Designer",
+    "postedby": "Admin",
+    "companyname": "Infosys",
+    "jobtype": "Part Time",
+    "address": "Bangalore",
+    "status": "Approved"
+  },
+  {
+    "jobtitle": "Marketing Manager",
+    "postedby": "Alumni",
+    "companyname": "Google",
+    "jobtype": "Full Time",
+    "address": "Hyderabad",
+    "status": "Rejected"
+  },
+  {
+    "jobtitle": "Product Manager",
+    "postedby": "Admin",
+    "companyname": "Microsoft",
+    "jobtype": "Full Time",
+    "address": "Pune",
+    "status": "Approved"
+  },
+  {
+    "jobtitle": "Graphic Designer",
+    "postedby": "Alumni",
+    "companyname": "Wipro",
+    "jobtype": "Contract",
+    "address": "Chennai",
+    "status": "Pending"
+  },
+  {
+    "jobtitle": "DevOps Engineer",
+    "postedby": "Admin",
+    "companyname": "Amazon",
+    "jobtype": "Full Time",
+    "address": "Noida",
+    "status": "Approved"
+  },
+  {
+    "jobtitle": "HR Manager",
+    "postedby": "Alumni",
+    "companyname": "Cognizant",
+    "jobtype": "Full Time",
+    "address": "Delhi",
+    "status": "Rejected"
+  },
+  {
+    "jobtitle": "Cybersecurity Analyst",
+    "postedby": "Admin",
+    "companyname": "Capgemini",
+    "jobtype": "Part Time",
+    "address": "Kolkata",
+    "status": "Approved"
+  },
+  {
+    "jobtitle": "Full Stack Developer",
+    "postedby": "Alumni",
+    "companyname": "Oracle",
+    "jobtype": "Contract",
+    "address": "Bangalore",
+    "status": "Pending"
+  }
+  
+  
+]

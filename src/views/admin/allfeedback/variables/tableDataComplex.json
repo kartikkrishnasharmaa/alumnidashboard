@@ -1,0 +1,139 @@
+[
+  {
+    "name":"Kartik Sharma",
+    "admissionyear":"2015",
+    "lastyear":"2024",
+    "phone":"83022860194",
+    "address":"Jaipur",
+    "status": "Approved"
+  },
+  {
+    "name":"Neha Verma",
+    "admissionyear":"2016",
+    "lastyear":"2022",
+    "phone":"91029203456",
+    "address":"Mumbai",
+    "status": "Pending"
+  },
+  {
+    "name":"Aman Gupta",
+    "admissionyear":"2017",
+    "lastyear":"2023",
+    "phone":"75022139467",
+    "address":"Delhi",
+    "status": "Approved"
+  },
+  {
+    "name":"Simran Kaur",
+    "admissionyear":"2014",
+    "lastyear":"2021",
+    "phone":"9891234509",
+    "address":"Chandigarh",
+    "status": "Approved"
+  },
+  {
+    "name":"Rahul Mishra",
+    "admissionyear":"2018",
+    "lastyear":"2022",
+    "phone":"8210987634",
+    "address":"Lucknow",
+    "status": "Pending"
+  },
+  {
+    "name":"Priya Mehta",
+    "admissionyear":"2013",
+    "lastyear":"2020",
+    "phone":"9045678901",
+    "address":"Bangalore",
+    "status": "Rejected"
+  },
+  {
+    "name":"Vikas Singh",
+    "admissionyear":"2012",
+    "lastyear":"2019",
+    "phone":"8320981234",
+    "address":"Ahmedabad",
+    "status": "Approved"
+  },
+  {
+    "name":"Anjali Patel",
+    "admissionyear":"2015",
+    "lastyear":"2023",
+    "phone":"7002154321",
+    "address":"Indore",
+    "status": "Pending"
+  },
+  {
+    "name":"Rohit Kumar",
+    "admissionyear":"2016",
+    "lastyear":"2021",
+    "phone":"9456132879",
+    "address":"Pune",
+    "status": "Approved"
+  },
+  {
+    "name":"Sonal Agarwal",
+    "admissionyear":"2017",
+    "lastyear":"2022",
+    "phone":"8320098765",
+    "address":"Hyderabad",
+    "status": "Rejected"
+  },
+  {
+    "name":"Vivek Dubey",
+    "admissionyear":"2014",
+    "lastyear":"2021",
+    "phone":"8291234567",
+    "address":"Kolkata",
+    "status": "Approved"
+  },
+  {
+    "name":"Megha Jain",
+    "admissionyear":"2013",
+    "lastyear":"2020",
+    "phone":"9210456789",
+    "address":"Bhopal",
+    "status": "Pending"
+  },
+  {
+    "name":"Piyush Gupta",
+    "admissionyear":"2016",
+    "lastyear":"2023",
+    "phone":"7312234567",
+    "address":"Surat",
+    "status": "Approved"
+  },
+  {
+    "name":"Sneha Nair",
+    "admissionyear":"2017",
+    "lastyear":"2022",
+    "phone":"8901234567",
+    "address":"Thiruvananthapuram",
+    "status": "Approved"
+  },
+  {
+    "name":"Arjun Rao",
+    "admissionyear":"2015",
+    "lastyear":"2023",
+    "phone":"9812345678",
+    "address":"Chennai",
+    "status": "Pending"
+  },
+  {
+    "name":"Swati Desai",
+    "admissionyear":"2014",
+    "lastyear":"2021",
+    "phone":"9823456712",
+    "address":"Goa",
+    "status": "Approved"
+  },
+  {
+    "name":"Harshvardhan Singh",
+    "admissionyear":"2016",
+    "lastyear":"2024",
+    "phone":"8529012345",
+    "address":"Dehradun",
+    "status": "Approved"
+  }
+  
+]
