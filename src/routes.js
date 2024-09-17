@@ -16,6 +16,8 @@ import Allevents from 'views/admin/allevents';
 import Allgroups from 'views/admin/allgroups';
 import Allblogs from 'views/admin/allblogs';
 import Featuredalumni from 'views/admin/featuredalumni';
+import SignInCentered from 'views/auth/signIn';
+import SignInup from 'views/auth/signup';
 import Feedbacks from 'views/admin/allfeedback';
 import NFTMarketplace from 'views/admin/marketplace';
 import Profile from 'views/admin/profile';
@@ -98,17 +100,14 @@ const routes = [
     name: 'Sign In',
     layout: '/auth',
     path: '/sign-in',
-    icon: <Icon as={MdLock} width="20px" height="20px" color="inherit" />,
     component: <SignInCentered />,
   },
   {
     name: 'Sign UP',
     layout: '/auth',
     path: '/sign-up',
-    icon: <Icon as={MdLock} width="20px" height="20px" color="inherit" />,
     component: <SignInup />,
   },
-  // {
   
 ];
 
